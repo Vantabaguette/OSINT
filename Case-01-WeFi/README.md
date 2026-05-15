@@ -17,8 +17,8 @@ The primary landing page resolves to **31.43.160.6**, hosted via **Framer B.V.**
 * **Tactical Observation:** Legitimate financial institutions utilize enterprise-grade CDNs (Akamai, Cloudfront) with proprietary code. The use of a "No-Code" designer tool like Framer indicates a "visual-only" shell with no integrated banking backend.
 * **Hosting Density:** Reverse IP lookups show the server hosts hundreds of unrelated domains, indicating a lack of dedicated security infrastructure.
 
-![Fig_01: IP Geolocation](./Wefi/Infrastructure%20&%20Geolocation/Fig_01_IP_Geolocation_Netherlands.png)
-![Fig_07: Shared Hosting Tenants](./Wefi/Infrastructure%20&%20Geolocation/Fig_07_Shared_Hosting_Tenant_List.png)
+![Fig_01: IP Geolocation](./Wefi/Infrastructure_and_Geolocation//Fig_01_IP_Geolocation_Netherlands.png)
+![Fig_07: Shared Hosting Tenants](./Wefi/Infrastructure_and_Geolocation//Fig_07_Shared_Hosting_Tenant_List.png)
 
 ### 2.2 The "Mumbai Hub" (India)
 The critical operational logic—specifically the login (`auth.wefi.co`) and user dashboard (`app.wefi.co`)—is hosted in the **AWS ap-south-1** (Mumbai) region.
@@ -35,7 +35,7 @@ Professional CTI analysis reveals that WeFi is not a unique startup, but a repea
 ### 3.1 Pivot Point: xspacestdg.com
 The authentication layer utilizes the identity **`app-as1.xspacestdg.com`**. This domain acts as a "template fingerprint." Threat actors frequently reuse the same authentication servers for multiple "clone" scams. By tracking `xspacestdg.com`, more equiped researchers can identify "sister" sites that share the same backend, indicating a **"Scam-as-a-Service"** model managed by a single South Asian syndicate.
 
-![Fig_10: Subdomain History](./Wefi/The%20Mumbai%20Connection/Fig_10_Auth_Subdomain_History.png)
+![Fig_10: Subdomain History](./Wefi/The%20Mumbai%20Connection//Fig_10_Auth_Subdomain_History.png)
 
 
 ## 4. Financial Engineering & Capital Extraction
