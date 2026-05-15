@@ -4,7 +4,7 @@
 **Key Principals:** Brad Hager, Marcia Hager  
 **Sector Focus:** CBD Supplements and Multi-Level Marketing (MLM)  
 **Date:** May 15, 2026  
-**Author:** Angelo/Soleil
+**Author:** Angelo/Soleil  
 
 ## 1. Executive Summary
 
@@ -20,6 +20,7 @@ Despite marketing materials highlighting advanced laboratories and global headqu
 The company lists its primary United States corporate addresses as 1950 S Rainbow Blvd, Ste 103-167, and 8465 W Sahara Ave, Ste 111-106, located in Las Vegas, Nevada. Cross-referencing these addresses on public directories and mapping services reveals that they do not belong to corporate offices or scientific laboratories. Instead, they correspond to commercial mail-receiving agencies (CMRAs) such as Pack Ship & More and PostalAnnex+. 
 
 A legitimate enterprise generating millions of dollars in revenue and employing a purported team of nine PhD scientists does not run its core operations out of shared, virtual private mailboxes (PMBs) located in suburban strip malls. This suggests the Las Vegas address is merely a shell registration used to project a corporate presence.
+![Swiss Zefix Opting Out Registration](../CilibyDesign/Fig_01_Swiss_Zefix_Opting_Out_Registration.png)
 
 ### 2.2 The Swiss Audit Exemption: A Shield Against Transparency
 European operations are managed through Golden Wave International GmbH (UID: CHE-499.605.289), registered at Chaltenbodenstrasse 4a, Schindellegi, Switzerland. This address functions as a shared corporate domicile housing at least 41 other distinct companies.
@@ -27,8 +28,8 @@ European operations are managed through Golden Wave International GmbH (UID: CHE
 Under Article 727a, paragraph 2 of the Swiss Code of Obligations, Golden Wave International GmbH has legally filed for an "opting-out" of a formal financial audit. This legal provision allows companies with fewer than 10 full-time employees to dispense with an independent financial review, provided all shareholders agree. 
 
 While this maneuver is strictly legal, it serves as an impenetrable barrier against financial transparency. Top distributor Martin Ryf has openly claimed earnings of three million dollars through the platform. In the standard MLM industry, legitimate companies provide evidence of such massive payouts by submitting to independent audits. By choosing the opting-out path, Golden Wave ensures its bank balances, tax payments, true profit margins, and actual distributor earnings remain entirely hidden from the public. 
+![Compensation Plan Rank Tiers](../CilibyDesign/Fig_12_Compensation_Plan_Rank_Tiers.png)
 
-![Swiss Zefix Opting Out Registration](../CilibyDesign/Fig_01_Swiss_Zefix_Opting_Out_Registration.png)
 
 ## 3. The Founders' History: MLM Nomads and Ponzi Schemes
 
@@ -49,8 +50,7 @@ Following the collapse of FGXpress, the Hagers transitioned into the realm of cr
 In early 2018, independent researchers noted that Brad Hager was actively promoting Ormeus Global in Thailand. By 2019, Ormeus Global collapsed entirely. Its founder, John Barksdale, was arrested by Thai authorities and subsequently indicted on criminal fraud charges in the United States. The SEC filed parallel civil fraud charges, officially classifying Ormeus Global as a 124 million dollar Ponzi scheme. John Barksdale remains at large as a fugitive in Southeast Asia.
 
 Brad Hager has seemingly attempted to scrub his digital footprint regarding his involvement with Ormeus Global. Tellingly, CiLi by Design was launched in 2019, the exact same year Ormeus Global was dismantled by international authorities.
-
-![Ormeus Global Ponzi Connection](../CilibyDesign/Fig_10_Ormeus_Global_Ponzi_Connection.png)
+![Builders Pack Pay to Play](../CilibyDesign/Fig_14_Builders_Pack_Pay_to_Play.png)
 
 ## 4. Product Viability and the "Aquaceutical" Fallacy
 
@@ -76,13 +76,14 @@ The marketing material utilizes complex "Science-Slam" terminology designed to i
 
 [Click here to view the USPTO Aquaceutical Trademark Filing PDF](../CilibyDesign/Fig_05_USPTO_Aquaceutical_Trademark_Filing.pdf)
 
-![Marketing Sophism Claims](../CilibyDesign/Fig_04_Marketing_Sophism_Claims.png)
+
 
 ### 4.3 The Certificate of Analysis (COA) Misdirection
 CiLi by Design utilizes a specific misdirection regarding its product testing. There are two types of Certificates of Analysis in the supplement industry. CiLi displays the "Isolate COA," which is simply the laboratory test of the raw, bulk white powder purchased from a third-party supplier. This only proves the raw material was clean before processing. 
 
 What is suspiciously missing is the "Finished Product COA." Once the raw isolate is mixed with water and 90 different herbal ingredients, the chemistry fundamentally changes. Without a finished product test, consumers have no proof of actual CBD potency after dilution, no proof regarding heavy metal or pesticide contamination from the 90 added plants, and no proof of chemical stability to ensure the CBD does not simply separate and clump at the bottom of the bottle.
 
+![Ormeus Global Ponzi Connection](../CilibyDesign/Fig_10_Ormeus_Global_Ponzi_Connection.png)
 ### 4.4 The Association Sophism and Regulatory Dangers
 The company employs a marketing technique known as association sophism. They link general, real-world studies on the benefits of hemp to validate their specific, untested product. None of the scientific studies cited in their literature actually mention "CiLi by Design" or "Aquaceutical Technology." A legitimate scientific enterprise would provide peer-reviewed clinical trials conducted directly on their specific finished formula.
 
@@ -105,7 +106,7 @@ The requirements to climb the ranks reveal a stark disparity between retail cust
 
 This 3 to 1 disparity at the highest level definitively proves the system is mathematically designed around building massive downlines rather than acquiring external retail consumers.
 
-![Compensation Plan Rank Tiers](../CilibyDesign/Fig_12_Compensation_Plan_Rank_Tiers.png)
+
 
 ### 5.3 Commission Caps and Unilevel Retail Payouts
 Retail commissions are paid via a unilevel structure, placing the affiliate at the top and paying down four theoretical levels. 
@@ -129,7 +130,7 @@ Basic affiliate membership costs $39.95 annually. However, CiLi by Design offers
 
 Regulatory agencies strongly warn against MLM operations where participants can purchase expensive inventory packs to artificially inflate their compensation rank. This "Pay-to-Play" structure is a primary hallmark of unsustainable pyramid mechanics.
 
-![Builders Pack Pay to Play](../CilibyDesign/Fig_14_Builders_Pack_Pay_to_Play.png)
+
 
 ### 6.2 The Illusion of Redundant Bonuses
 CiLi boasts multiple avenues for income, including specific lifestyle rewards:
@@ -144,7 +145,7 @@ Despite the highly specific names, the company's own fine print clearly states t
 ## 7. Market Position and Tracxn Rating
 
 An objective look at the company's market health reveals a stagnant enterprise. Tracxn, a recognized market intelligence platform, scores CiLi by Design at an abysmal 29 out of 100. This score classifies the operation as an unfunded "Zombie Company," indicating zero outside venture capital investment, stagnant hiring trends, and extremely low web authority. CiLi ranks 16th out of 605 competitors in its sector, directly contradicting leadership claims of massive global expansion.
-
+![Marketing Sophism Claims](../CilibyDesign/Fig_04_Marketing_Sophism_Claims.png)
 ![Tracxn Zombie Score and Rank](../CilibyDesign/Fig_02_Tracxn_Zombie_Score_and_Rank.png)
 
 ## 8. Conclusion
