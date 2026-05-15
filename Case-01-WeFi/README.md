@@ -1,5 +1,5 @@
 # CTI Investigation: The WeFi.co "Deobank" Infrastructure & Network Analysis
-**Author:** Angelo / Vantabaguette  
+**Author:** Angelo / Soleil  
 **Date:** May 14, 2026  
   
 
