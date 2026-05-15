@@ -1,9 +1,10 @@
 # Investigative Report: CiLi by Design & The Hager Network
 
-**Target of Investigation:** CiLi by Design LLC / Golden Wave International GmbH
-**Key Principals:** Brad Hager, Marcia Hager
-**Sector Focus:** CBD Supplements and Multi-Level Marketing (MLM)
-**Date:** May 15, 2026
+**Target of Investigation:** CiLi by Design LLC / Golden Wave International GmbH  
+**Key Principals:** Brad Hager, Marcia Hager  
+**Sector Focus:** CBD Supplements and Multi-Level Marketing (MLM)  
+**Date:** May 15, 2026  
+**Author:** Angelo/Soleil
 
 ## 1. Executive Summary
 
@@ -20,8 +21,6 @@ The company lists its primary United States corporate addresses as 1950 S Rainbo
 
 A legitimate enterprise generating millions of dollars in revenue and employing a purported team of nine PhD scientists does not run its core operations out of shared, virtual private mailboxes (PMBs) located in suburban strip malls. This suggests the Las Vegas address is merely a shell registration used to project a corporate presence.
 
-![US Virtual Mailbox Address](Fig_03_US_Virtual_Mailbox_Address.png)
-
 ### 2.2 The Swiss Audit Exemption: A Shield Against Transparency
 European operations are managed through Golden Wave International GmbH (UID: CHE-499.605.289), registered at Chaltenbodenstrasse 4a, Schindellegi, Switzerland. This address functions as a shared corporate domicile housing at least 41 other distinct companies.
 
@@ -29,7 +28,7 @@ Under Article 727a, paragraph 2 of the Swiss Code of Obligations, Golden Wave In
 
 While this maneuver is strictly legal, it serves as an impenetrable barrier against financial transparency. Top distributor Martin Ryf has openly claimed earnings of three million dollars through the platform. In the standard MLM industry, legitimate companies provide evidence of such massive payouts by submitting to independent audits. By choosing the opting-out path, Golden Wave ensures its bank balances, tax payments, true profit margins, and actual distributor earnings remain entirely hidden from the public. 
 
-![Swiss Zefix Opting Out Registration](Fig_01_Swiss_Zefix_Opting_Out_Registration.png)
+![Swiss Zefix Opting Out Registration](../CilibyDesign/Fig_01_Swiss_Zefix_Opting_Out_Registration.png)
 
 ## 3. The Founders' History: MLM Nomads and Ponzi Schemes
 
@@ -41,8 +40,8 @@ According to their official corporate biographies, Brad Hager has been involved 
 * **ForeverGreen and FGXpress (2013 to 2016):** They moved their massive downline into FGXpress, a spinoff of ForeverGreen International founded by CEO Ron Williams. FGXpress ultimately collapsed in 2016.
 * **Zeek Rewards (2012):** Archival data from 2012 shows an individual named Brad Hager boasting of a "fairly large downline" in Zeek Rewards. Zeek Rewards was a notorious North Carolina-based scheme run by Paul Burks. Brad Hager's social media confirms he is originally from North Carolina, strongly linking him to this collapsed operation.
 
-![MLM Leadership Structure](Fig_06_MLM_Leadership_Structure.png)
-![Founders Hager MLM History](Fig_09_Founders_Hager_MLM_History.png)
+![MLM Leadership Structure](../CilibyDesign/Fig_03_MLM_Leadership_Structure.png)
+![Cili Product Line and Pricing](../CilibyDesign/Fig_11_Cili_Product_Line_and_Pricing.png)
 
 ### 3.2 The Ormeus Global Cryptocurrency Ponzi
 Following the collapse of FGXpress, the Hagers transitioned into the realm of cryptocurrency MLM scams through a company called Ormeus Global. 
@@ -51,7 +50,7 @@ In early 2018, independent researchers noted that Brad Hager was actively promot
 
 Brad Hager has seemingly attempted to scrub his digital footprint regarding his involvement with Ormeus Global. Tellingly, CiLi by Design was launched in 2019, the exact same year Ormeus Global was dismantled by international authorities.
 
-![Ormeus Global Ponzi Connection](Fig_10_Ormeus_Global_Ponzi_Connection.png)
+![Ormeus Global Ponzi Connection](../CilibyDesign/Fig_10_Ormeus_Global_Ponzi_Connection.png)
 
 ## 4. Product Viability and the "Aquaceutical" Fallacy
 
@@ -61,38 +60,33 @@ CiLi by Design attempts to differentiate its products in an extremely competitiv
 The company markets a range of CBD and CBG supplements that are significantly overpriced compared to standard market alternatives.
 * **Cili Swish:** Retails at $72.50 for a bottle containing 36 servings. This is the flagship product, described as the purest hemp oil on the market.
 * **Cili Boost:** Retails at $25.00 for 90 spray servings. Marketed as an orange zest energy spray.
-* **CILI Sleep:** Retails at $25.00 for 30 spray servings.
-* **CILI Serenity:** Retails at $25.00 for 30 spray servings.
-* **CILI Relief:** Retails at $25.00 for 30 spray servings.
-* **CILI Trim:** Retails at $25.00 for 30 spray servings.
+* **CILI Sleep / Serenity / Relief / Trim:** Each retails at $25.00 for 30 spray servings.
 
 The flagship Swish product contains 3326 mg of THC-free hemp oil and 1232 mg of a "proprietary aquaceutical adaptogen nootropic wellness blend." The lack of retail pricing viability strongly suggests these margins exist solely to fund the MLM compensation plan, making retail sales nearly impossible and forcing the business model to rely entirely on internal affiliate consumption.
 
-![Cili Product Line and Pricing](Fig_11_Cili_Product_Line_and_Pricing.png)
+
 
 ### 4.2 Deconstructing the Pseudoscience
 The marketing material utilizes complex "Science-Slam" terminology designed to impress ordinary consumers, but it falls apart under basic chemical scrutiny.
 
 **1. Breaking Covalent Bonds:** The marketing claims their technology can "break covalent bonds between hydrogen and oxygen." A covalent bond is the fundamental force holding a water molecule together. If these bonds are chemically broken, the result is hydrogen gas and oxygen gas, a process known as electrolysis. It does not create a highly absorbable drinkable liquid supplement.
 **2. Erasing Water Memory:** The website claims to "erase water memory." This is an esoteric, homeopathic concept that has been widely discredited and has absolutely no basis in modern physics or chemistry.
-**3. The 7 Nanometer Math Error:** The marketing materials claim their particles are 7 nanometers (nm) in size, explicitly stating this is "close to the picometer threshold." This is mathematically impossible. One nanometer equals 1,000 picometers. Therefore, 7 nm equals 7,000 picometers. Claiming that 7,000 is close to 1 is a massive distortion. To provide physical context, atoms themselves are measured in picometers. A carbon atom is roughly 150 picometers. If a CBD molecule were actually close to one picometer, it would be smaller than the atoms that compose it.
+**3. The 7 Nanometer Math Error:** The marketing materials claim their particles are 7 nanometers (nm) in size, explicitly stating this is "close to the picometer threshold." This is mathematically impossible. One nanometer equals 1,000 picometers. Therefore, 7 nm equals 7,000 picometers. Claiming that 7,000 is close to 1 is a massive distortion. To provide physical context, atoms themselves are measured in picometers.
 **4. Trademark vs. Utility Patent:** A search of the USPTO (Application #97793057) confirms that "Aquaceutical" is merely a pending trademark wordmark. It is not a utility patent protecting a unique or proprietary scientific process. 
 
-![Marketing Sophism Claims](Fig_07_Marketing_Sophism_Claims.png)
+[Click here to view the USPTO Aquaceutical Trademark Filing PDF](../CilibyDesign/Fig_05_USPTO_Aquaceutical_Trademark_Filing.pdf)
+
+![Marketing Sophism Claims](../CilibyDesign/Fig_04_Marketing_Sophism_Claims.png)
 
 ### 4.3 The Certificate of Analysis (COA) Misdirection
 CiLi by Design utilizes a specific misdirection regarding its product testing. There are two types of Certificates of Analysis in the supplement industry. CiLi displays the "Isolate COA," which is simply the laboratory test of the raw, bulk white powder purchased from a third-party supplier. This only proves the raw material was clean before processing. 
 
 What is suspiciously missing is the "Finished Product COA." Once the raw isolate is mixed with water and 90 different herbal ingredients, the chemistry fundamentally changes. Without a finished product test, consumers have no proof of actual CBD potency after dilution, no proof regarding heavy metal or pesticide contamination from the 90 added plants, and no proof of chemical stability to ensure the CBD does not simply separate and clump at the bottom of the bottle.
 
-![Product Finished COA Missing](Fig_05_Product_Finished_COA_Missing.png)
-
 ### 4.4 The Association Sophism and Regulatory Dangers
 The company employs a marketing technique known as association sophism. They link general, real-world studies on the benefits of hemp to validate their specific, untested product. None of the scientific studies cited in their literature actually mention "CiLi by Design" or "Aquaceutical Technology." A legitimate scientific enterprise would provide peer-reviewed clinical trials conducted directly on their specific finished formula.
 
 Furthermore, CiLi utilizes highly non-compliant terminology, marketing products for "Relief" from pain and "Serenity" for anxiety. In October 2019, the FDA and FTC issued massive joint warnings to CBD companies, such as Relievus, for making these exact unapproved health claims regarding pain, anxiety, and inflammation. CiLi operates within this exact same regulatory danger zone.
-
-![FTC Relievus Warning Letter](Fig_04_FTC_Relievus_Warning_Letter.png)
 
 ## 5. The MLM Compensation Plan: A Focus on Recruitment
 
@@ -111,7 +105,7 @@ The requirements to climb the ranks reveal a stark disparity between retail cust
 
 This 3 to 1 disparity at the highest level definitively proves the system is mathematically designed around building massive downlines rather than acquiring external retail consumers.
 
-![Compensation Plan Rank Tiers](Fig_12_Compensation_Plan_Rank_Tiers.png)
+![Compensation Plan Rank Tiers](../CilibyDesign/Fig_12_Compensation_Plan_Rank_Tiers.png)
 
 ### 5.3 Commission Caps and Unilevel Retail Payouts
 Retail commissions are paid via a unilevel structure, placing the affiliate at the top and paying down four theoretical levels. 
@@ -122,7 +116,7 @@ Retail commissions are paid via a unilevel structure, placing the affiliate at t
 
 However, the residual commissions paid via the binary structure are severely capped at the lower levels, which lopsidedly punishes the majority of participants. A C2 ranked affiliate is capped at earning a maximum of $500 a month in residual commissions. A C3 is capped at $1000. It is not until C12 that the cap scales up to an impossible $1,000,000 a month. In standard MLM models, the vast majority of affiliates never make it past the opening ranks, meaning their earning potential is strictly throttled while they continue paying their monthly autoship fees.
 
-![Binary Residual Commissions](Fig_13_Binary_Residual_Commissions.png)
+![Binary Residual Commissions](../CilibyDesign/Fig_13_Binary_Residual_Commissions.png)
 
 ## 6. Pay-to-Play Mechanics and Arbitrary Bonuses
 
@@ -135,7 +129,7 @@ Basic affiliate membership costs $39.95 annually. However, CiLi by Design offers
 
 Regulatory agencies strongly warn against MLM operations where participants can purchase expensive inventory packs to artificially inflate their compensation rank. This "Pay-to-Play" structure is a primary hallmark of unsustainable pyramid mechanics.
 
-![Builders Pack Pay to Play](Fig_14_Builders_Pack_Pay_to_Play.png)
+![Builders Pack Pay to Play](../CilibyDesign/Fig_14_Builders_Pack_Pay_to_Play.png)
 
 ### 6.2 The Illusion of Redundant Bonuses
 CiLi boasts multiple avenues for income, including specific lifestyle rewards:
@@ -145,13 +139,13 @@ CiLi boasts multiple avenues for income, including specific lifestyle rewards:
 
 Despite the highly specific names, the company's own fine print clearly states these are simply cash bonuses that affiliates can spend "any way you want" or "at their discretion." Splitting standard cash payouts into arbitrarily named categories is a deceptive marketing tactic utilized purely so the company can claim there are "10 different ways to earn money in CiLi." 
 
-![Bonus Structure Analysis](Fig_15_Bonus_Structure_Analysis.png)
+![Bonus Structure Analysis](../CilibyDesign/Fig_15_Bonus_Structure_Analysis.png)
 
 ## 7. Market Position and Tracxn Rating
 
 An objective look at the company's market health reveals a stagnant enterprise. Tracxn, a recognized market intelligence platform, scores CiLi by Design at an abysmal 29 out of 100. This score classifies the operation as an unfunded "Zombie Company," indicating zero outside venture capital investment, stagnant hiring trends, and extremely low web authority. CiLi ranks 16th out of 605 competitors in its sector, directly contradicting leadership claims of massive global expansion.
 
-![Tracxn Zombie Score and Rank](Fig_02_Tracxn_Zombie_Score_and_Rank.png)
+![Tracxn Zombie Score and Rank](../CilibyDesign/Fig_02_Tracxn_Zombie_Score_and_Rank.png)
 
 ## 8. Conclusion
 
